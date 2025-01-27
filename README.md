@@ -1,48 +1,43 @@
-<h1>Hi, I'm Keith! <br/><a href="https://github.com/KeithRenfro">Founding Director Impact AI Studio</a>, 
-  <a href="https://www.linkedin.com/in/KeithRenfro/">LLM Application Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+# From Big Data to AI: My Journey to Building a SaaS Studio for the Future
 
-<h2>👨‍💻 SaaS Development Projects:</h2>
+Over two decades ago, I began my career with a simple question: *How can organizations work smarter, not harder, to achieve their goals?*
 
-- <b>RAG Chatbots</b>
-  - [Praciting DS & Algos in Python](https://github.com/KeithRenfro/)
-- <b>Full Stack Web App () <b><i>(Potentially)</b></i>
-- <b>MLM</b>
-  - [](https://github.com/KeithRenfro/)
+That question led me down a path of discovery, learning, and innovation—one that began in the classroom. In 2002, I started teaching graduate courses in **Organizational Development, Data Analytics, and Knowledge Management**. It was an exciting time when technology was just beginning to reshape how organizations operated. Concepts like **data warehousing** and **data marts** were emerging, and I saw firsthand how these tools could empower decision-making and improve efficiency.
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+Fast forward to **2007**, when I transitioned into a leadership role as a ** Non-Managing Assistant Director of a Technology Division** for the State of Kentucky. This was during a transformative era for public sector technology. My team and I consulted on everything from **data collection and warehousing** to **analytics and knowledge management systems**. We worked tirelessly to align technology with organizational goals, fostering cultural change to support **data-driven decision-making** at scale.
 
-<h2>📺 Popular YouTube Videos</h2>
+But it wasn’t just about the tools—it was about **building a foundation for smarter organizations**. Whether it was creating dashboards to provide real-time insights or designing frameworks to ensure institutional knowledge was accessible, my focus was always on enabling teams to make informed decisions that drove results.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+As technology evolved, so did my focus. Over the past several years, I’ve immersed myself in the world of **AI and machine learning**, exploring how these tools can take organizational efficiency and innovation to the next level. The rise of **large language models (LLMs)** and **AI-powered analytics** has opened up new possibilities for automation, knowledge management, and predictive insights.
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## The Birth of a Vision: Smart AI for Smart Organizations
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+This journey led to the founding of **Impact AI Studio**, a boutique studio specializing in **AI and LLM-powered solutions**. Our mission is simple: to help Small, Medium Enterprises unlock the potential of cutting-edge technology while staying true to their goals.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At the studio, I bring together:
+- **Deep experience in organizational transformation**: Having led cultural and technological change at scale.
+- **Technical expertise in AI and data analytics**: Building tools that empower teams to work smarter, not harder.
+- **A team of AI innovators**: Working to create bespoke SaaS solutions that fit seamlessly into existing workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Why This Matters Today
+
+The world is changing faster than ever, and organizations face mounting pressure to do more with less. Technology isn’t just a tool—it’s a lifeline. But here’s the thing: adopting new tools doesn’t have to be disruptive or overwhelming. That’s where we come in.
+
+At **Impact AI Studio**, we create solutions that empower organizations to:
+- Automate repetitive tasks and focus on strategy.
+- Gain actionable insights with real-time data analytics.
+- Integrate AI seamlessly into their operations without gutting their teams.
+
+My goal is to demystify AI and show organizations that it’s not a threat—it’s an opportunity to unlock their full potential.
+
+---
+
+## Let’s Build the Future Together
+
+If you’re ready to embrace AI and take your organization to the next level, let’s connect. Whether you’re looking for customized LLM solutions, predictive analytics platforms, or guidance on navigating the AI frontier, my team and I are here to help.
+
+Feel free to message me, or visit **[Your Website URL]** to learn more about our work. Let’s co-create smarter, more agile organizations—together.
