@@ -12,6 +12,25 @@ As technology evolved, so did my focus. Over the past several years, I’ve imme
 
 ---
 
+## Transition to Managing Director: Driving Technology and Innovation
+
+In **2012**, I transitioned to the role of **Managing Director of a Technology Division** for the **State of Kentucky**, where I took on a broader leadership role, driving technological innovation across multiple departments. My team and I were responsible for:
+
+- **Full-Stack Web Applications**: Developing, maintaining, and optimizing scalable applications that served the needs of state-wide enterprises and their partners.
+- **Data Architecture and Analytics**: Building robust systems to manage, analyze, and leverage large datasets, ensuring that critical insights were accessible to decision-makers.
+- **Statewide Collaboration**: Supporting Kentucky’s government agencies and their partners through advanced technological solutions that streamlined workflows and improved performance.
+
+This period marked a significant transformation in my career. I went from advising on change initiatives to **leading technical teams** and implementing the tools that drove those changes. It was here that I developed a passion for combining **technology and strategy**, enabling organizations to work smarter, adapt faster, and achieve greater impact.
+
+## Lessons in Leadership and Technology
+
+As Managing Director, I learned that successful innovation isn’t just about deploying tools—it’s about **aligning technology with organizational goals**, empowering teams, and ensuring seamless integration into existing workflows. These lessons continue to shape my approach today as I lead **Impact AI Studio**, helping organizations navigate the challenges and opportunities of the AI era.
+
+---
+
+This journey set the foundation for my expertise in **AI-driven solutions**, where I now combine years of experience in **data architecture, organizational transformation, and full-stack development** to empower organizations to thrive in a rapidly evolving technological landscape.
+
+---
 ## The Birth of a Vision: Smart AI for Smart Organizations
 
 This journey led to the founding of **Impact AI Studio**, a boutique studio specializing in **AI and LLM-powered solutions**. Our mission is simple: to help Small, Medium Enterprises unlock the potential of cutting-edge technology while staying true to their goals.
